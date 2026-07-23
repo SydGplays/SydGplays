@@ -24,4 +24,4 @@ Python · React · JavaScript · LangChain · LangGraph · RAG · n8n · Git · 
 
 ## Contacto
 
-- LinkedIn: [URL de LinkedIn]
+- LinkedIn: [www.linkedin.com/in/adrian-gil-dev]
